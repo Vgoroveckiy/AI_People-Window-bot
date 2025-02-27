@@ -45,6 +45,7 @@
 
  ![Диалог-замер](https://github.com/Vgoroveckiy/AI_People-Window-bot/blob/main/zamer.png?raw=true)
 
+**Пример записи в календаре:**
  ![Календарь](https://github.com/Vgoroveckiy/AI_People-Window-bot/blob/main/calendar.png?raw=true)
 
 ---
