@@ -29,7 +29,7 @@
 - Клиент: "Сколько стоит замена стеклопакета?"
 - Ассистент: "Цена замены стеклопакета зависит от его размера и типа. Для стандартного стеклопакета размером 100x150 см стоимость составляет 8 000 рублей. Если вам нужна более подробная информация, пожалуйста, уточните параметры."
 
- ![Диалог-2]([https://example.com/image.png](https://github.com/Vgoroveckiy/AI_People-Window-bot/blob/main/dialog-2.png?raw=true))
+ ![Диалог-2](https://github.com/Vgoroveckiy/AI_People-Window-bot/blob/main/dialog-2.png?raw=true)
 
 ---
 
@@ -43,9 +43,9 @@
 - Клиент: "Пусть это будет 10 октября, в 16:00."
 - Ассистент: "Вы успешно записаны на замер окна на 10 октября, 16:00. Напоминание придет за день до встречи."
 
- ![Диалог-замер]([https://example.com/image.png](https://github.com/Vgoroveckiy/AI_People-Window-bot/blob/main/zamer.png?raw=true))
+ ![Диалог-замер](https://github.com/Vgoroveckiy/AI_People-Window-bot/blob/main/zamer.png?raw=true)
 
- ![Календарь]([https://example.com/image.png](https://github.com/Vgoroveckiy/AI_People-Window-bot/blob/main/calendar.png?raw=true))
+ ![Календарь](https://github.com/Vgoroveckiy/AI_People-Window-bot/blob/main/calendar.png?raw=true)
 
 ---
 
